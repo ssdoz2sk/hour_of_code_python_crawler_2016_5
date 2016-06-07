@@ -22,7 +22,7 @@
 如果已經安裝 jupyter notebook   
 ```
   $ git clone https://github.com/ssdoz2sk/hour_of_code_python_crawler_2016_5.git
-  $ cd hour_of_code_python_2016_5
+  $ cd hour_of_code_python_crawler_2016_5
   $ jupyter-notebook
 ```
 
