@@ -1,0 +1,8 @@
+[I 10:10:44.607 NotebookApp] The port 8080 is already in use, trying another port.
+[I 10:10:44.615 NotebookApp] Serving notebooks from local directory: /home/web/notebook/hour_of_code_python_crawler_2016_5/notebook2
+[I 10:10:44.616 NotebookApp] 0 active kernels 
+[I 10:10:44.616 NotebookApp] The Jupyter Notebook is running at: http://120.113.173.106:8081/
+[I 10:10:44.616 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 10:10:44.616 NotebookApp] No web browser found: could not locate runnable browser.
+[C 10:12:11.306 NotebookApp] received signal 15, stopping
+[I 10:12:11.307 NotebookApp] Shutting down kernels
